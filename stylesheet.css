@@ -1,0 +1,7 @@
+.grid-effect {
+    display: flex;
+    margin-bottom: calc(var(--row-gutter)*-1);
+    margin-left: calc(var(--column-gutter)*-1);
+	}
+
+	
